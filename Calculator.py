@@ -34,4 +34,4 @@ print(results)
 print("加法", jisuan_1.add(x, y))
 print("减法", jisuan_1.reduce(x, y))
 print("乘法", jisuan_1.chen(x, y))
-print("除法", jisuan_1.chu(x, y))
+
